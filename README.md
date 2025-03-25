@@ -9,6 +9,10 @@
 
 </div>
 
+<a href="https://glama.ai/mcp/servers/@ameeralns/DeepResearchMCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ameeralns/DeepResearchMCP/badge" alt="DeepResearch MCP server" />
+</a>
+
 ## 📚 Overview
 
 DeepResearch MCP is a powerful research assistant built on the Model Context Protocol (MCP). It conducts intelligent, iterative research on any topic through web searches, analysis, and comprehensive report generation.
@@ -34,7 +38,7 @@ DeepResearch MCP is a powerful research assistant built on the Model Context Pro
 │  (Tools & Prompts) │     │ (Session Mgmt)  │     │  (Firecrawl)   │
 │                    │     │                 │     │                │
 └────────────────────┘     └─────────┬───────┘     └────────────────┘
-                                     │
+                                     |
                                      ▼
                            ┌─────────────────┐
                            │                 │
