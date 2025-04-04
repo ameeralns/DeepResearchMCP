@@ -48,6 +48,14 @@ DeepResearch MCP is a powerful research assistant built on the Model Context Pro
 
 ## 💻 Installation
 
+### Installing via Smithery
+
+To install DeepResearch for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ameeralns/DeepResearchMCP):
+
+```bash
+npx -y @smithery/cli install @ameeralns/DeepResearchMCP --client claude
+```
+
 ### Prerequisites
 
 - Node.js 18 or higher
