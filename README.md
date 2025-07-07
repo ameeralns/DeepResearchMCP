@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ameeralns-deepresearchmcp-badge.png)](https://mseep.ai/app/ameeralns-deepresearchmcp)
+
 # DeepResearch MCP
 
 <div align="center">
